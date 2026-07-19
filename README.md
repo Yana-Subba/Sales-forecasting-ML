@@ -15,29 +15,6 @@ In this project, historical retail sales data is analyzed, preprocessed, and use
 - Visualize actual vs predicted sales.
 - Save the trained model for future predictions.
   
-# Project Structure
-
-Sales-Forecasting-ML/
-│
-├── data/
-│   └── business.retailsales.csv
-│
-├── notebook/
-│   └── Sales Forecasting ML.ipynb
-│
-├── model/
-│   └── sales_forecasting_model.pkl
-│
-├── outputs/
-│   ├── prediction_results.csv
-│   ├── model_comparison.csv
-│   ├── actual_vs_predicted.png
-│   └── feature_importance.png
-│
-├── README.md
-├── requirements.txt
-└── LICENSE
-
 # Dataset
 
 The dataset contains historical retail sales information with features such as:
